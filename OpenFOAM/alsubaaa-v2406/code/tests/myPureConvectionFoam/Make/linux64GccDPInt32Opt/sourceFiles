@@ -1,0 +1,4 @@
+SOURCE = \
+myPureConvectionFoam.C \
+
+# sources

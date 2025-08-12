@@ -1,0 +1,4 @@
+SOURCE = \
+myReactingFoam.C \
+
+# sources
